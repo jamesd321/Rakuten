@@ -1,7 +1,7 @@
-#Rakuten
+# Rakuten
 *Screening Assignement - Go*
 
-##Description
+## Description
 You will be building a very simple webservice in go that will store “foo” records in memory. Please feel free to use any public resources that you can find.
  
 ##Requirements
@@ -15,7 +15,7 @@ You will be building a very simple webservice in go that will store “foo” re
 8. Please make sure that your code is formatted with gofmt before committing.
 9. Please send the url of your git repository when you are complete.
 
-##Sample curl output
+## Sample curl output
 ```
 $ curl -i -X POST -H 'Accept: application/json' -H 'Content-Type: application/json' 'http://localhost:8080/foo' -d '{"name": "Jack"}'
 HTTP/1.1 200
