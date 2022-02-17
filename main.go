@@ -2,7 +2,6 @@
 Creator James Marshall
 Date 	2022-02-16
 
-
 This article was very helpful in creating this API
 https://tutorialedge.net/golang/creating-restful-api-with-golang/
 */
